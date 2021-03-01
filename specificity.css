@@ -1,0 +1,14 @@
+ .favorite{
+     color: red;
+ }
+
+ ul#summer-drinks li.favorite{
+    color: red;
+    font-weight: bold;
+}
+
+ul#summer-drinks li{
+    font-size: 12px;
+    color: black;
+    font-weight: normal;
+}
